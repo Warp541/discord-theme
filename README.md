@@ -60,4 +60,4 @@ my wip theme so far (quickCSS):
 [class*="layerContainer"] [class*="chat_"] {
     background-color: hsla(245, 20%, 12%, 0.9) !important;
     background-image: none !important;
-}```
+}
